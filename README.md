@@ -9,7 +9,7 @@ This table of historic mayors of Boise consolidates data that has historically b
 - YearAppointed: Year of appointment to mayor
 - YearLeftOffice: Year left office
 - Name: Mayor's name
-- FullDescription: Short bio, compiled by Boise City Arts and History Department
+- FullDescription: Short bio, compiled by Boise City Department of Arts & History 
 - Source: References for bio
 - ImageURL: Link to historic image
 - ImageDescription: Photo caption
