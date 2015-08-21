@@ -16,5 +16,5 @@ This table of historic mayors of Boise consolidates data that has historically b
 - ImageCredit: Photo credit
 - Wikipedia: Link to Wikipedia entry (some mayors do not have Wikipedia pages, but you could add them)
 
-The City of Boise welcomes suggestions for improving this dataset. Fork this repository, edit, improve and add to the data, and issue a pull request here so we can see your proposed changes. And if you use the data for a project or app, we'd love to hear about it. Find us at [boiseopendata.org] (http://boiseopendata.or) (coming soon...)
+The City of Boise welcomes suggestions for improving this dataset. Fork this repository, edit, improve and add to the data, and issue a pull request here so we can see your proposed changes. And if you use the data for a project or app, we'd love to hear about it. Find us at [boiseopendata.org] (http://boiseopendata.org) (coming soon...)
 
